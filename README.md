@@ -1,2 +1,2 @@
 # titanic_survival
- my attepmt at making a 100 percent accurate titanic survival predictor
+ This model predicts whether a passenger on the titanic ship survived or died.
